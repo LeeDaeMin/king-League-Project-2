@@ -10,6 +10,11 @@
   "author": "Lee",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "1.0.0-rc.12"
+    "cheerio": "1.0.0-rc.12",
+    "hono": "2.7.1"
+  },
+  "devDependencies": {
+    "vitest": "^0.26.3",
+    "wrangler": "^2.6.2"
   }
 }
