@@ -2,7 +2,7 @@
     {
         "id": "1k",
         "name": "1k",
-        "image": "/1k.svg",
+        "image": "https://kings-league-api.king-league-project.workers.dev/static/logos/1k.svg",
         "url": "",
         "president": "???",
         "channel": "https:twitch.tv/1k",
@@ -19,7 +19,7 @@
     {
         "id": "el-barrio",
         "name": "El Barrio",
-        "image": "/el-bbarrio.svg",
+        "image": "https://kings-league-api.king-league-project.workers.dev/static/logos/el-bbarrio.svg",
         "url": "",
         "president": "???",
         "channel": "https:twitch.tv/1k",
@@ -35,7 +35,7 @@
     {
         "id": "ultimate-mostoles",
         "name": "Ultimate Mostoles",
-        "image": "/ultimate-mostoles.svg",
+        "image": "https://kings-league-api.king-league-project.workers.dev/static/logos/ultimate-mostoles.svg",
         "url": "",
         "president": "???",
         "channel": "https:twitch.tv/1k",
@@ -51,7 +51,7 @@
     {
         "id": "los-troncos-fc",
         "name": "Los Troncos FC",
-        "image": "/los-troncos.png",
+        "image": "https://kings-league-api.king-league-project.workers.dev/static/logos/los-troncos.png",
         "url": "",
         "president": "???",
         "channel": "https:twitch.tv/1k",
@@ -68,7 +68,7 @@
     {
         "id": "saiyans-fc",
         "name": "Saiyans FC",
-        "image": "/saiyans-fc.svg",
+        "image": "https://kings-league-api.king-league-project.workers.dev/static/logos/saiyans-fc.svg",
         "url": "",
         "president": "???",
         "channel": "https:twitch.tv/1k",
@@ -85,7 +85,7 @@
     {
         "id": "kunisports",
         "name": "Kunisports",
-        "image": "/kunisports.svg",
+        "image": "https://kings-league-api.king-league-project.workers.dev/static/logos/kunisports.svg",
         "url": "",
         "president": "???",
         "channel": "https:twitch.tv/1k",
@@ -102,7 +102,7 @@
     {
         "id": "jigantes-fc",
         "name": "Jigantes FC",
-        "image": "/jijantes-fc.svg",
+        "image": "https://kings-league-api.king-league-project.workers.dev/static/logos/jijantes-fc.svg",
         "url": "",
         "president": "???",
         "channel": "https:twitch.tv/1k",
@@ -118,7 +118,7 @@
     {
         "id": "porcinos-fc",
         "name": "Porcinos FC",
-        "image": "/porcinos-fc.svg",
+        "image": "https://kings-league-api.king-league-project.workers.dev/static/logos/porcinos-fc.svg",
         "url": "",
         "president": "???",
         "channel": "https:twitch.tv/1k",
@@ -135,7 +135,7 @@
     {
         "id": "rayo-barcelona",
         "name": "Rayo de Barcelona",
-        "image": "/rayo-barcelona.svg",
+        "image": "https://kings-league-api.king-league-project.workers.dev/static/logos/rayo-barcelona.svg",
         "url": "",
         "president": "???",
         "channel": "https:twitch.tv/1k",
@@ -152,7 +152,7 @@
     {
         "id": "xbuyer-team",
         "name": "Xbuyer Team",
-        "image": "/xbuyer-team.svg",
+        "image": "https://kings-league-api.king-league-project.workers.dev/static/logos/xbuyer-team.svg",
         "url": "",
         "president": "???",
         "channel": "https:twitch.tv/1k",
@@ -169,7 +169,7 @@
     {
         "id": "aniquiladores-fc",
         "name": "Aniquiladores FC",
-        "image": "/aniquiadores.svg",
+        "image": "https://kings-league-api.king-league-project.workers.dev/static/logos/aniquiadores.svg",
         "url": "",
         "president": "???",
         "channel": "https:twitch.tv/1k",
@@ -186,7 +186,7 @@
     {
         "id": "pio-fc",
         "name": "Pio Fc",
-        "image": "/pio.svg",
+        "image": "https://kings-league-api.king-league-project.workers.dev/static/logos/pio.svg",
         "url": "",
         "president": "???",
         "channel": "https:twitch.tv/1k",
